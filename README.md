@@ -8,14 +8,14 @@
 
 需要套件
 1. python3.7 above
-   1.1 json
-   1.2 numpy
-   1.3 pandas
-   1.4 matplotlib
-   1.5 cartopy
-   1.6 shapefile
-   1.7 proj
-   1.8 request
+* json
+* numpy
+* pandas
+* matplotlib
+* cartopy
+* shapefile
+* proj
+* request
 2. wget or curl
 
 基本技術 command line、python 基本語法
